@@ -1,2 +1,2 @@
-# polybet
-web3 sports betting and casino dapp
+# Polybet
+Sports betting exchange app
