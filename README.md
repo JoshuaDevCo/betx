@@ -1,2 +1,2 @@
-# Polybet
-Sports betting exchange app
+# Cricbet 🏏
+Cricket betting exchange
