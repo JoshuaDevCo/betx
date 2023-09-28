@@ -1,2 +1,2 @@
-# Cricbet 🏏
+# CricBet 🏏
 Cricket betting exchange
