@@ -1,5 +1,5 @@
 # betX
-Opensource framework to rapidly prototype full stack e-gambling or sports-betting apps.
+Open source framework to rapidly prototype full stack e-gambling or sports-betting apps.
 
 ## Tech Stack
 ### Front End
