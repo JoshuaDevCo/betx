@@ -4,7 +4,7 @@ Open source framework to rapidly prototype full stack e-gambling or sports-betti
 ## Tech Stack
 ### Front End
 - [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/) (+ [React Router](https://reactrouter.com/) [React Query](https://tanstack.com/query/v3/))
+- [React](https://reactjs.org/) (+ [React Router](https://reactrouter.com/) + [React Query](https://tanstack.com/query/v3/))
 - [Vite](https://vitejs.dev/) for dev server and browser bundling
 - [Tailwind](https://tailwindcss.com/) for styling
 - [Vercel](https://vercel.com/) for [deployment](https://vitejs.dev/guide/static-deploy.html#vercel)
